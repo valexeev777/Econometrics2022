@@ -8,5 +8,4 @@ sklearn
 scipy
 pandas_datareader
 IPython
-mpl_toolkits
 plotly
