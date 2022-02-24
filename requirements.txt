@@ -6,7 +6,6 @@ matplotlib
 patsy
 sklearn
 scipy
-math
 pandas_datareader
 IPython
 mpl_toolkits
