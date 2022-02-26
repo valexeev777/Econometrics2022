@@ -9,3 +9,7 @@ scipy
 pandas_datareader
 IPython
 plotly
+datetime
+arch
+linearmodels
+collections
