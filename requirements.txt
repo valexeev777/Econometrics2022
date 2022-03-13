@@ -12,3 +12,4 @@ plotly
 datetime
 arch
 linearmodels
+functools
